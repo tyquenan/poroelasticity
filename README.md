@@ -8,3 +8,4 @@ Merit sensor
 Anaconda recommanded
 Fluigent SDK ()
 pygame (pip install pygame)
+matplotlib_pygame
